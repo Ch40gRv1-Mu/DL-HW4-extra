@@ -1,0 +1,6 @@
+[submodule "reference"]
+	path = reference
+	url = https://github.com/GeeeekExplorer/CMU-DLSys.git
+[submodule "DL-HW4"]
+	path = DL-HW4
+	url = https://github.com/Ch40gRv1-Mu/DL-HW4.git

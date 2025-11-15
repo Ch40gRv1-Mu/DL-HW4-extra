@@ -1,0 +1,3 @@
+/home/changrui/DL-HW4-extra/build/CMakeFiles/ndarray_backend_cpu.dir
+/home/changrui/DL-HW4-extra/build/CMakeFiles/edit_cache.dir
+/home/changrui/DL-HW4-extra/build/CMakeFiles/rebuild_cache.dir
